@@ -6,6 +6,7 @@ deposit and withdraw money, transfer funds between accounts, check their account
 **Features**
 
  It will prompts to different avilable options to customer
+ 
     1. b - Balance Enquiry
     2. d - Deposit
     3. w - Withdraw
